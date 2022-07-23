@@ -27,8 +27,13 @@ System.out.println("kumar");
 System.out.println("banu");
 System.out.println("divya");
 System.out.println("priya");
+<<<<<<< HEAD
+System.out.println("soni");
+System.out.println("shaik");
+=======
 System.out.println("meera");
 System.out.println("ruban");
 
+>>>>>>> 570ce4335eda1c718f126532a0f9fef031a6c2c6
 }
 }
