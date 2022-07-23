@@ -27,6 +27,7 @@ System.out.println("kumar");
 System.out.println("banu");
 System.out.println("divya");
 System.out.println("priya");
-
+System.out.println("soni");
+System.out.println("shaik");
 }
 }
